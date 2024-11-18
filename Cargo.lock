@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Elliptic_Generate_Points_Orders"
+name = "Elliptic_Curve_Point_Generation_and_Order_Calculation"
 version = "0.1.0"
