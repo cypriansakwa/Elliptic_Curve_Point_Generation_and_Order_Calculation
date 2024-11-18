@@ -1,0 +1,6 @@
+[package]
+name = "Elliptic_Curve_Point_Generation_and_Order_Calculation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
